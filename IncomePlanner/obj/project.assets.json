@@ -1557,11 +1557,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\Desktop\\IncomePlannerApp-master\\IncomePlanner\\IncomePlanner.csproj",
+      "projectUniqueName": "C:\\Users\\andre\\source\\repos\\IncomePlannerApp-master\\IncomePlanner\\IncomePlanner.csproj",
       "projectName": "IncomePlanner",
-      "projectPath": "C:\\Users\\andre\\Desktop\\IncomePlannerApp-master\\IncomePlanner\\IncomePlanner.csproj",
+      "projectPath": "C:\\Users\\andre\\source\\repos\\IncomePlannerApp-master\\IncomePlanner\\IncomePlanner.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\Desktop\\IncomePlannerApp-master\\IncomePlanner\\obj\\",
+      "outputPath": "C:\\Users\\andre\\source\\repos\\IncomePlannerApp-master\\IncomePlanner\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
